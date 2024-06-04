@@ -17,3 +17,7 @@ body {
     flex-direction: column;
     display: flex;
 }
+
+p {
+    color: white;
+}
