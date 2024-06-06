@@ -64,15 +64,7 @@ html {
     color: #333333;
     padding-left: 10px;
   }
-  .login:hover{
-    background-color: #f0f0f0;
-    cursor: pointer;
-  }
-  .signup:hover{
-    background-color: #f66b60;
-    cursor: pointer;
-  }
-
+  
   .fit-picture{
     width: 40vw;
   }
