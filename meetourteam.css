@@ -30,20 +30,75 @@ p {
   height: 10vw;
 }
 
-.eight {
+.James {
   display: flex;
   justify-content: center;
-  background: linear-gradient(#7ac16e,#73c15c,#459c39)
+  /* background: linear-gradient(#7ac16e,#73c15c,#459c39) */
 }
 
-.nine {
+.Stephy {
   display: flex;
   justify-content: center;
-  background: linear-gradient(#51c536,#36b51f,#32a012)
+  /* background: linear-gradient(#51c536,#47be2b,#32a012) */
 }
 
-.ten {
+.Matthias {
   display: flex;
   justify-content: center;
-  background: linear-gradient(#52ac3d,#46a826,#2c9112)
+  /* background: linear-gradient(#52ac3d,#46a826,#2c9112) */
+}
+
+.Nitika {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#5ed645,#59d938,#30cb06) */
+}
+
+.Nivedha {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#18811c,#128e16,#087a06) */
+}
+
+.Roberta {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#78c254,#66bc3a,#49a120) */
+}
+
+.Angel {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#41a133,#37a71a,#0a850a) */
+}
+
+.Eli {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#008700,#009700,#006f00) */
+}
+
+.Emmanuel {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#46b520,#58c224,#16a216) */
+}
+
+.Eren {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#54a540,#61b641,#3b9416) */
+}
+
+.Eyazhini {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#59d413,#55d901,#14c500) */
+}
+
+.Shridula {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#14c500,#05b010,#009a00)
+*/
 }
