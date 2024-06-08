@@ -9,7 +9,7 @@ html {
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      /* height: 100vh; */
       background-color: #264652;
       font-family: Arial, sans-serif;
     }
@@ -35,6 +35,8 @@ html {
     padding-left: 0;
   }
   .header{
+    background-color: #264653; 
+    border: 30px solid #264652;
     width:100%;
     height: 60px;
     position: fixed;

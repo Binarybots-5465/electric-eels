@@ -12,7 +12,7 @@
 
   }
 .title h2 {
-    margin-top: 420px;
+    margin-top: 150px;
     padding:0%;
 }
 
@@ -76,4 +76,7 @@ body {
 .header{
   background-color: #264653; 
   border: 30px solid #264652;
+}
+#lastimg{
+  margin-bottom: 35px;
 }

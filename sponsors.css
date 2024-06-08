@@ -5,13 +5,26 @@
     margin: 0%;
     border: 0;
     display: flex;
+    flex-direction: column;
+    text-align: center;
 
   }
 .title h2 {
-    margin-top: 75px;
+    margin-top: 150px;
     padding:0%;
+    margin-bottom: 0px;
 }
-
+.title h3{
+    font-size: 30px; 
+    color: #aed8ff;
+    text-decoration: none;
+}
+.title a{
+    color: #aed8ff;
+}
+.title a:hover{
+    color: #89aed0;
+}
 body {
     justify-content:flex-start;
     flex-direction: column;
@@ -21,3 +34,7 @@ body {
 p {
     color: white;
 }
+.header{
+    background-color: #264653; 
+    border: 30px solid #264652;
+  }
