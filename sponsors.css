@@ -1,5 +1,5 @@
 
-  .title {
+.title {
     font-size: 50px;
     color:  #aed8ff;
     margin: 0%;
@@ -7,7 +7,7 @@
     display: flex;
 
   }
-.title h1 {
+.title h2 {
     margin-top: 75px;
     padding:0%;
 }
@@ -20,12 +20,4 @@ body {
 
 p {
     color: white;
-}
-
-#meet {
-  color:#a1c0dd;
-}
-
-.seven {
-  width: 20%;
 }
