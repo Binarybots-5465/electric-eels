@@ -27,5 +27,23 @@ p {
 }
 
 .seven {
-  width: 20%;
+  height: 10vw;
+}
+
+.eight {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(#7ac16e,#73c15c,#459c39)
+}
+
+.nine {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(#51c536,#36b51f,#32a012)
+}
+
+.ten {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(#52ac3d,#46a826,#2c9112)
 }
