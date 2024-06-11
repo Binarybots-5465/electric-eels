@@ -106,3 +106,18 @@ p {
 .Team {
   height: 30vw;
 }
+
+.Evan {
+  display: flex;
+  justify-content: center;
+}
+
+.pranav {
+  display: flex;
+  justify-content: center;
+}
+
+.Sidney {
+  display: flex;
+  justify-content: center;
+}
