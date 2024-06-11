@@ -12,7 +12,7 @@
 
   }
 .title h2 {
-    margin-top: 150px;
+    margin-top: 200px;
     padding:0%;
 }
 
@@ -52,7 +52,7 @@ body {
 
 .image {
   margin-left: 30px;
-  max-height: 200px; 
+  max-height: 275px; 
   width: auto;
   margin-right: 20px; 
   border: 5px dotted #aed8ff; 
@@ -61,7 +61,7 @@ body {
 
 .para {
   max-width: 500px;
-  font-size: 13px; 
+  font-size: 18px; 
 }
 .textarea{
   display: flex;
@@ -71,7 +71,7 @@ body {
   color: white;
   text-align: center;
   margin-right: 23px;
-  font-size: 14px;
+  font-size: 20px;
 }
 .header{
   background-color: #264653; 
@@ -79,4 +79,15 @@ body {
 }
 #lastimg{
   margin-bottom: 35px;
+}
+.link{
+  color: white;
+  text-decoration: none;
+}
+.link:hover{
+  color: #7f9ba6;
+}
+.homepage{
+  height: 150px;
+  width: auto;
 }

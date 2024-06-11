@@ -65,10 +65,13 @@ a.navli{
 
 .header {
   text-align: center;
+  background-color: #264653; 
+    border: 30px solid #264652;
+    padding-bottom: 50px;
 }
 
 .header h1 {
   font-size: 4em;
-  color: #aed8ff;
+  color: #7f9ba6;
 }
 

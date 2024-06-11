@@ -102,3 +102,7 @@ p {
   /* background: linear-gradient(#14c500,#05b010,#009a00)
 */
 }
+.homepage{
+  height: 150px;
+  width: auto;
+}
