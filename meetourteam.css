@@ -2,8 +2,8 @@
   .title {
     font-size: 50px;
     color:  #aed8ff;
-    margin: 0%;
-    border: 0;
+    margin-top: 5%;
+    border-top: 50;
     display: flex;
 
   }
@@ -101,4 +101,8 @@ p {
   justify-content: center;
   /* background: linear-gradient(#14c500,#05b010,#009a00)
 */
+}
+
+.Team {
+  height: 30vw;
 }
