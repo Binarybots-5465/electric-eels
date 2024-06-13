@@ -3,7 +3,7 @@
     font-size: 50px;
     color:  #aed8ff;
     display: flex;
-    margin-top: 100px;
+    margin-top: 150px;
     text-align: center;
     align-items: center;
     width: 100%;
@@ -12,7 +12,7 @@
     flex-direction: column;
     display: flex;
 }
-h1{
+h2{
     width: 100%;
     text-align: center;
 }
