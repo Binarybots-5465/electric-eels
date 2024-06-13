@@ -1,7 +1,6 @@
 html {
     height: 100%;
     width: 100%;
-    background: #f0f0f0;
     font-family: 'Montserrat', sans-serif;
   }
   body{
@@ -56,30 +55,7 @@ html {
   .navli:hover{
     color:#7f9ba6;
   }
-  .sign{
-    text-decoration: none;
-    color: white;
-    padding: 0px 0px 0px 500px;
-    transition: all 0.3s ease 0s;
-    font-size: 20px;
-    float: right;
-  }
-  .signup{
-    font-family: 'Montserrat', sans-serif;
-    border: #f0f0f0 solid 1px;
-    background-color: #f88379;
-    padding: 15px;
-    border-radius: 50px;
-    color: white;
-  }
-  .login{
-    font-family: 'Montserrat', sans-serif;
-    border: #f88379 solid 1px;
-    background-color: white;
-    padding: 15px;
-    border-radius: 50px;
-    color: #f88379;
-  }
+  
   .log{
     padding-left: 10px;
   }
@@ -87,17 +63,11 @@ html {
     color: #333333;
     padding-left: 10px;
   }
-  .login:hover{
-    background-color: #f0f0f0;
-    cursor: pointer;
-  }
-  .signup:hover{
-    background-color: #f66b60;
-    cursor: pointer;
-  }
-
+  
   .fit-picture{
     width: 40vw;
+    margin-top: 250px;
+    margin-bottom: 25px;
   }
 
 a.navli{ 
@@ -107,9 +77,16 @@ a.navli{
 
 .header {
   text-align: center;
+  background-color: #264653; 
+    border: 30px solid #264652;
+    padding-bottom: 50px;
 }
 
 .header h1 {
   font-size: 4em;
   color: #aed8ff;
+}
+.homepage{
+  height: 150px;
+  width: auto;
 }

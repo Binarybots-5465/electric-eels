@@ -1,0 +1,123 @@
+
+  .title {
+    font-size: 50px;
+    color:  #aed8ff;
+    margin-top: 5%;
+    border-top: 50;
+    display: flex;
+
+  }
+.title h1 {
+    margin-top: 75px;
+    padding:0%;
+}
+
+body {
+    justify-content:flex-start;
+    flex-direction: column;
+    display: flex;
+}
+
+p {
+    color: white;
+}
+
+#meet {
+  color:#a1c0dd;
+}
+
+.seven {
+  height: 10vw;
+}
+
+.James {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#7ac16e,#73c15c,#459c39) */
+}
+
+.Stephy {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#51c536,#47be2b,#32a012) */
+}
+
+.Matthias {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#52ac3d,#46a826,#2c9112) */
+}
+
+.Nitika {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#5ed645,#59d938,#30cb06) */
+}
+
+.Nivedha {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#18811c,#128e16,#087a06) */
+}
+
+.Roberta {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#78c254,#66bc3a,#49a120) */
+}
+
+.Angel {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#41a133,#37a71a,#0a850a) */
+}
+
+.Eli {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#008700,#009700,#006f00) */
+}
+
+.Emmanuel {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#46b520,#58c224,#16a216) */
+}
+
+.Eren {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#54a540,#61b641,#3b9416) */
+}
+
+.Eyazhini {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#59d413,#55d901,#14c500) */
+}
+
+.Shridula {
+  display: flex;
+  justify-content: center;
+  /* background: linear-gradient(#14c500,#05b010,#009a00)
+*/
+}
+
+.Team {
+  height: 30vw;
+}
+
+.Evan {
+  display: flex;
+  justify-content: center;
+}
+
+.pranav {
+  display: flex;
+  justify-content: center;
+}
+
+.Sidney {
+  display: flex;
+  justify-content: center;
+}
