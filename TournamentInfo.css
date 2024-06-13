@@ -3,5 +3,39 @@
     font-size: 50px;
     color:  #aed8ff;
     display: flex;
+    margin-top: 100px;
     text-align: center;
+    align-items: center;
+    width: 100%;
+}
+.container{
+    flex-direction: column;
+    display: flex;
+}
+h1{
+    width: 100%;
+    text-align: center;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+}
+.info{
+    color: white;
+}
+.info li{
+    padding-bottom: 10px;
+}
+.sat{
+    padding-left: 15px;
+}
+.sun{
+    padding-left: 15px;
+    padding-right: 40px;
+}
+.fri{
+    padding-left: 40px;
+}
+.info{
+    margin-bottom: 35px;
 }
