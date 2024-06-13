@@ -121,3 +121,14 @@ p {
   display: flex;
   justify-content: center;
 }
+
+/* .table{
+  display: flex;
+  justify-content: space-around;
+} */
+
+.tableparent{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
